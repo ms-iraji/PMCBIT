@@ -1,6 +1,5 @@
 # PMCBIT
-A Persian Medical Chatbot Based on Transformers
-
+A Persian Healthcare Chatbot Built on Transformer Architecture
 
 Mohammad-Reza Feizi-Derakhshi a*, Mohammad Saber Iraji b, Siamak Shahriar a
 
